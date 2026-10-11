@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "fe2a03e6-6e7d-4eb5-80af-6e95fcfcace6",
+  "question": "Can you make a new website and rank my business on google",
+  "required_sections": [
+    "S01",
+    "S06"
+  ],
+  "annotation_source": "human",
+  "status": "pending",
+  "created_at": "2026-10-11T15:04:53.763364+00:00",
+  "taxonomy_version": "web-agency-v1",
+  "review": {
+    "reviewer": null,
+    "reviewed_at": null,
+    "notes": null
+  }
+}
